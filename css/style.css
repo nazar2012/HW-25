@@ -19,6 +19,7 @@
     background-color: blue;
     top: 60px;
     left: 100px;
+    z-index: 1;
 }
 
 .square:nth-child(3) {
